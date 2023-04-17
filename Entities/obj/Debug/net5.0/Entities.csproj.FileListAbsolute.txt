@@ -1,0 +1,15 @@
+F:\Md. Mainul Ahsan\TestLearning\Entities\bin\Debug\net5.0\Entities.deps.json
+F:\Md. Mainul Ahsan\TestLearning\Entities\bin\Debug\net5.0\Entities.runtimeconfig.json
+F:\Md. Mainul Ahsan\TestLearning\Entities\bin\Debug\net5.0\Entities.runtimeconfig.dev.json
+F:\Md. Mainul Ahsan\TestLearning\Entities\bin\Debug\net5.0\Entities.dll
+F:\Md. Mainul Ahsan\TestLearning\Entities\bin\Debug\net5.0\ref\Entities.dll
+F:\Md. Mainul Ahsan\TestLearning\Entities\bin\Debug\net5.0\Entities.pdb
+F:\Md. Mainul Ahsan\TestLearning\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\Md. Mainul Ahsan\TestLearning\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+F:\Md. Mainul Ahsan\TestLearning\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+F:\Md. Mainul Ahsan\TestLearning\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+F:\Md. Mainul Ahsan\TestLearning\Entities\obj\Debug\net5.0\Entities.dll
+F:\Md. Mainul Ahsan\TestLearning\Entities\obj\Debug\net5.0\ref\Entities.dll
+F:\Md. Mainul Ahsan\TestLearning\Entities\obj\Debug\net5.0\Entities.pdb
+F:\Md. Mainul Ahsan\TestLearning\Entities\obj\Debug\net5.0\Entities.genruntimeconfig.cache
+F:\Md. Mainul Ahsan\TestLearning\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
