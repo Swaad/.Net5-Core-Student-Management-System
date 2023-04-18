@@ -13,6 +13,7 @@ namespace TestLearning.Controllers
     [ApiController]
     public class TestController : ControllerBase
     {
+        //tffghfghfytf
         private readonly ModelContext _db = null;
         private ITestService _itest;
         public TestController(ModelContext db, ITestService itest)
@@ -46,6 +47,14 @@ namespace TestLearning.Controllers
         public List<Testora> GetStudentInfo()
         {
             var data = _itest.GetStudents();
+            return data;
+        }
+
+        [HttpGet]
+        [Route("get-all-student-info/{id}")]
+        public object GetStudentById(string id)
+        {
+            var data = _itest.GetStudentById(id);
             return data;
         }
 

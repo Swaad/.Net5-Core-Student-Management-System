@@ -21,12 +21,28 @@ namespace TestLearning.Services
         {
             try
             {
-                _db.Testoras.Add(testora);
-                _db.SaveChanges();
-                return true;
+                var my = new Testora();
+
+                my.Id = testora.Id;
+                my.Name = testora.Name;
+
+                var check_data = _db.Testoras.FirstOrDefault(x => x.Id == my.Id);
+                if (check_data == null)
+                {
+                    _db.Testoras.Add(my);
+                    _db.SaveChanges();
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+
+                    
             }
             catch (Exception e)
             {
+                Console.WriteLine(e);
                 return false;
             }
             
@@ -53,17 +69,11 @@ namespace TestLearning.Services
             return isSaved;
         }
 
-        //public List<Bank> GetBanks()
-        //{
-        //    var data = _db.Banks.ToList();
-        //    return data;
-        //}
-
-        //public List<Branch> GetBranches()
-        //{
-        //    var data = _db.Branches.ToList();
-        //    return data;
-        //}
+        public object GetStudentById(string id)
+        {
+            var data = _db.Testoras.FirstOrDefault(x => x.Id == id);
+            return data;
+        }
 
         public List<Testora> GetStudents()
         {
@@ -85,7 +95,6 @@ namespace TestLearning.Services
                 isSaved = true;
             }
             return isSaved;
-
         }
     }
 }

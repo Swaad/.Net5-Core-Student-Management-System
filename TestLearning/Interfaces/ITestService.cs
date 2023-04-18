@@ -16,5 +16,6 @@ namespace TestLearning.Interfaces
         bool Update(Testora model, ModelContext db);
         public List<Testora> GetStudents();
         public bool AddStudent(Testora testora);
+        public object GetStudentById(string id);
     }
 }
