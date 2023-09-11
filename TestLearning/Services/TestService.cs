@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 using TestLearning.Entities;
 using TestLearning.Interfaces;
 
@@ -77,8 +78,26 @@ namespace TestLearning.Services
 
         public List<Testora> GetStudents()
         {
-            var data = _db.Testoras.ToList();
+            //  var data = _db.Testoras.ToList();
+            var data= new List<Testora> ();
+            data.Add(new Testora
+            {
+                Name = "shamim",
+                Id = "01001"
+            });
+            data.Add(new Testora
+            {
+
+
+                Name = "Mainul",
+                Id = "01002"
+
+            });
             return data;
+    
+
+
+
         }
 
         public bool Update(Testora model, ModelContext db)

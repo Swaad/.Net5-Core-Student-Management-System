@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Md. Mainul Ahsan\\TestLearning\\Entities\\Entities.csproj": {}
+    "F:\\Md. Mainul Ahsan\\c# student management system\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "F:\\Md. Mainul Ahsan\\TestLearning\\Entities\\Entities.csproj": {
+    "F:\\Md. Mainul Ahsan\\c# student management system\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Md. Mainul Ahsan\\TestLearning\\Entities\\Entities.csproj",
+        "projectUniqueName": "F:\\Md. Mainul Ahsan\\c# student management system\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "F:\\Md. Mainul Ahsan\\TestLearning\\Entities\\Entities.csproj",
+        "projectPath": "F:\\Md. Mainul Ahsan\\c# student management system\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\Md. Mainul Ahsan\\TestLearning\\Entities\\obj\\",
+        "outputPath": "F:\\Md. Mainul Ahsan\\c# student management system\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,7 +75,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -84,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

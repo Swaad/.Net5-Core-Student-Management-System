@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lGAyOoddJU3DefLy0JTaPfVN1xJ89Nf2eJpLZ/Jpql0WM3n1vrQyH47qq0BwkTWkd1sZ7++IGPwNHQn0mZ25Wg==",
+  "dgSpecHash": "Ci/Atn+oosJtPw8W0G28NpVNzTBZ5TLK4DrHTSnwIzth197TKIbV01QmebFxq7EaRrfJ495a95j3uYEcg6bwpw==",
   "success": true,
-  "projectFilePath": "F:\\Md. Mainul Ahsan\\TestLearning\\TestLearning\\TestLearning.csproj",
+  "projectFilePath": "F:\\Md. Mainul Ahsan\\c# student management system\\TestLearning\\TestLearning.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

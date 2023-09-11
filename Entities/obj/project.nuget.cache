@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3yl2cpxGKXLICdTh9kDuJwPeVBnk/eJiITqU9rzt1onmCOADT0ZODQJV/PWJcmGp4Ts1Q7Q9B6b2LfGNLeXrJg==",
+  "dgSpecHash": "NXEy44feyRtKBTgX8uPaaMobDau4v6GzzxsiPmGeNCoY1XYO3AcH4WLyJvmOdlrrh3Q61RDh7ggtPNkgmkPS3g==",
   "success": true,
-  "projectFilePath": "F:\\Md. Mainul Ahsan\\TestLearning\\Entities\\Entities.csproj",
+  "projectFilePath": "F:\\Md. Mainul Ahsan\\c# student management system\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
